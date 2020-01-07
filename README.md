@@ -42,3 +42,6 @@ Or simply you can run this command to see output in terminal in project director
 ```javascript
 go run main.go
 ```
+
+## Run on your machine
+    go test -v
