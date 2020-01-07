@@ -43,5 +43,5 @@ Or simply you can run this command to see output in terminal in project director
 go run main.go
 ```
 
-## Run on your machine
+## Run test case
     go test -v
